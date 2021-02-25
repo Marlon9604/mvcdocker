@@ -8,7 +8,7 @@ trigger:
 #   vmImage: 'windows-latest'
  
 variables:
-  ImageName: 'marlon9604/prueba:nodejsimages'
+  ImageName: 'marlon9604/prueba:latest'
  
 stages:
 - stage: Build
