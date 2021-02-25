@@ -8,7 +8,7 @@ pool:
   vmImage: 'windows-latest'
  
 variables:
-  ImageName: 'marlon9604/prueba:$(Build.BuildId)'
+  ImageName: 'marlon9604/prueba:nodejsimages'
  
 stages:
 - stage: Build
